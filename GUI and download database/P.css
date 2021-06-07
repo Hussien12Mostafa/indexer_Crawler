@@ -1,0 +1,50 @@
+#Homescreen{
+    position: absolute;
+    background-image: url('/c361284c-3b92-4407-96c8-d6fd3ec7d98d.jpg');
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    width:100vw;
+    height: 100vh;
+    top:0vw;
+    left: 0vw;
+    right: 0vw;
+    bottom: 0vw;
+    
+    overflow: visible;
+}
+#search{
+    position: absolute;
+    width:100vw;
+
+    top:40vh;
+
+    
+}
+#text{
+    position:absolute;
+    width: 50vw;
+    font-size: 2vw;
+    border: none;
+    margin: none;
+    outline: none;
+    left: 20vw;
+    padding:1vw 2vw;
+    border-radius: 25px 0px 0px 25px;
+}
+#b1{
+    position:absolute;    
+    width: 10vw;
+    font-size: 2vw;
+    border: none;
+    padding: 1vw 0vw;
+    margin: none;
+    outline: none;
+    left: 72vw;
+    cursor: pointer;
+    border-radius: 0px 25px 25px 0px;
+    background-color: rgb(228, 50, 73);
+}
+
